@@ -29,4 +29,4 @@ The script initializes Pygame to create a window and draws a circle in the cente
 You can customize the script by adjusting parameters such as screen dimensions, font size, and colors. Additionally, you can modify the update frequency to make the clock update faster or slower.
 
 ## Author
-This script was created by Swikriti.
+This script was created by  [swikriti0416](https://github.com/swikriti0416).
